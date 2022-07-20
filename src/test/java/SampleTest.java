@@ -24,7 +24,7 @@ public class SampleTest {
         System.out.println("This is executed");
 
 
-        //testrampsee
+        //testrampseejenkinsfile
 
 
         //sample
