@@ -22,9 +22,12 @@ public class SampleTest {
         driver.navigate().to("https://www.facebook.com/login/");
         Thread.sleep(5000);
         System.out.println("This is executed");
-        //run
 
-        //sample tesr
+
+        //test
+
+
+        //sample
     }
 
 }
